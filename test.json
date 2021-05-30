@@ -1,5 +1,4 @@
-{
- "User": [
+[
     { 
       "StaffID":"flexsystem",
       "PW":"flexsystem" 
@@ -13,5 +12,5 @@
     { "StaffID":"ken", 
      "PW":"1234567" 
     }
-  ]
-}
+]
+
