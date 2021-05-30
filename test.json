@@ -1,5 +1,17 @@
-[
-  { "StaffID":"flexsystem", "PW":"flexsystem" },
-  { "StaffID":"acude", "PW":"acudetest" },
-  { "StaffID":"ken", "PW":"1234567" }
-]
+{
+ "User": [
+    { 
+      "StaffID":"flexsystem",
+      "PW":"flexsystem" 
+    },
+   
+    { 
+      "StaffID":"acude",
+      "PW":"acudetest" 
+    },
+   
+    { "StaffID":"ken", 
+     "PW":"1234567" 
+    }
+  ]
+}
